@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/huy/learncpp/build",
+  "command": "/usr/bin/g++  -I/home/huy/learncpp/include -g -o CMakeFiles/learncpp.dir/src/book.cpp.o -c /home/huy/learncpp/src/book.cpp",
+  "file": "/home/huy/learncpp/src/book.cpp",
+  "output": "CMakeFiles/learncpp.dir/src/book.cpp.o"
+}
+]

@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp",
+        "*.tcc": "cpp",
+        "limits": "cpp"
+    }
+}

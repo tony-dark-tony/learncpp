@@ -1,0 +1,3 @@
+/home/huy/learncpp/build/CMakeFiles/learncpp.dir
+/home/huy/learncpp/build/CMakeFiles/edit_cache.dir
+/home/huy/learncpp/build/CMakeFiles/rebuild_cache.dir
